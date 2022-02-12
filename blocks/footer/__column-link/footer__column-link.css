@@ -1,13 +1,13 @@
 .footer__column-link {
-display: flex;
-margin: 0;
-padding: 0 0 10px;
-opacity: 1;
-transition: opacity 0.5s;
+  display: flex;
+  margin: 0;
+  padding: 0 0 10px;
+  opacity: 1;
+  transition: opacity 0.5s;
 }
 
 .footer__column-link:last-of-type {
-padding: 0;
+  padding: 0;
 }
 
 .footer__column-link:hover {
