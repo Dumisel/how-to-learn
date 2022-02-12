@@ -2,6 +2,7 @@
   width: 620px;
   height: 608px;
   margin-right: 48px;
-  background-size: initial;
+  object-fit: cover;
+  object-position: 0 0;
   overflow: hidden;
 }

@@ -2,14 +2,10 @@
   text-decoration: none;
   color: #2f80ed;
   z-index: 2;
-}
-
-
-.link__overlay {
   opacity: 1;
   transition: opacity 0.5s;
 }
 
-.link__overlay:hover {
+.header__link:hover {
   opacity: 0.5;
 }
