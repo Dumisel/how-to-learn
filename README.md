@@ -16,7 +16,7 @@
 * Адаптировать сайт для просмотра на разных устройствах
 
 ## Ссылка на сайт:
-https://dumisel.github.io/how-to-learn/
+https://dumisel.github.com/how-to-learn/
 
 ---
 
@@ -38,4 +38,4 @@ The single page website is created using some advanced features of HTML and CSS.
 * To optimize website for different screen sizes
 
 ## URL:
-https://svetanti.github.io/how-to-learn/
+https://dumisel.github.com/how-to-learn/
