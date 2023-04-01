@@ -1,4 +1,4 @@
-# Научиться учиться. Лендинг для Яндекс.Практикума
+# Научиться учиться. Проект для Яндекс.Практикума
 ---
 
 Проект представляет собой одностраничный сайт.
@@ -15,10 +15,10 @@
 
 ---
 
-# How to learn. The second project for Yandex.Praktikum
+# How to learn. A project for Yandex.Practicum
 ---
 
-The single page website is created using some advanced features of HTML and CSS.
+A single page website created using some advanced features of HTML and CSS.
 
 ## Technologies
 * HTML
@@ -28,4 +28,4 @@ The single page website is created using some advanced features of HTML and CSS.
 * The Nested BEM file stucture
 
 ## Future improvements
-* To optimize website for different screen sizes
+* Optimize website for different screen sizes
