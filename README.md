@@ -15,9 +15,6 @@
 ## Планы по доработке
 * Адаптировать сайт для просмотра на разных устройствах
 
-## Ссылка на сайт:
-https://dumisel.github.com/how-to-learn/
-
 ---
 
 # How to learn. The second project for Yandex.Praktikum
@@ -36,6 +33,3 @@ The single page website is created using some advanced features of HTML and CSS.
 
 ## Future improvements
 * To optimize website for different screen sizes
-
-## URL:
-https://dumisel.github.com/how-to-learn/
